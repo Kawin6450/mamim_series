@@ -8,6 +8,7 @@ Python下载
 > https://blog.csdn.net/sensen_kiss/article/details/141940274
 
 由于pip默认下载源很慢，这里我们改用清华源
+
 cmd
 ---
 > pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
