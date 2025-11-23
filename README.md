@@ -15,7 +15,7 @@ cmd
 
 然后开始安装
 ---
-> pip install mamim
+> pip install manim
 
 需要配合ffmpeg使用
 ---
