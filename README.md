@@ -1,4 +1,4 @@
-# mamim_series
+# manim_series
 Python下载
 ---
 > https://mirrors.huaweicloud.com/python/3.13.7/python-3.13.7-amd64.exe
