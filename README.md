@@ -21,7 +21,7 @@ cmd
 ---
 > https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z
 
-为了方便在命令行中直接调用 FFmpeg，需要将其添加到系统的环境变量中。
+将其添加到系统的环境变量
 ---
 在桌面左下角开始菜单搜索"菜单"，找到"编辑编辑环境变量"，然后点击打开。
 
